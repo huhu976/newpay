@@ -517,7 +517,7 @@ proxy-groups:
       - EGmoo02
       - EGmoo03
       - EGmoo04
-      - EGmo005
+      - EGmoo05
     type: select
     disable-udp: false
     health-check:
